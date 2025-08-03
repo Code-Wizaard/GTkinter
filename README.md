@@ -2,7 +2,7 @@
 > Simple. Clean. Pythonic GTK for humans.
 
 [![PyPI version](https://img.shields.io/pypi/v/GTkinter?label=PyPI&color=blue)](https://pypi.org/project/GTkinter/)
-[![License](https://img.shields.io/github/license/yourusername/GTkinter)](LICENSE)
+[![License](https://img.shields.io/github/license/Code-Wizaard/GTkinter)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7+-blue)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20GTK3-success)](https://www.gtk.org/)
 [![Stars](https://img.shields.io/github/stars/Code-Wizaard/GTkinter?style=social)](https://github.com/Code-Wizaard/GTkinter)
@@ -137,4 +137,5 @@ MIT License — see [LICENSE](LICENSE) file.
 
 Built with love by **@Code-Wizaard**  
 Contributions & stars are appreciated 🌟
+
 
