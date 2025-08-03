@@ -122,7 +122,7 @@ If you have a suggestion or want to extend the widget set, open an issue or PR.
 
 ## 📜 License
 
-MIT License — see [LICENSE](LICENSE) file.
+GPL-3 License — see [LICENSE](LICENSE) file.
 
 ---
 
@@ -137,5 +137,6 @@ MIT License — see [LICENSE](LICENSE) file.
 
 Built with love by **@Code-Wizaard**  
 Contributions & stars are appreciated 🌟
+
 
 
