@@ -11,12 +11,12 @@ btn = Button("Click me")
 def on_click(button):
     label.set_text("You clicked me!")
 
-btn.connect(Event.CLICKED, on_click)
+btn.connect(Events.CLICKED, on_click)
 
 layout.add(label)
 layout.add(btn)
 win.set_child(layout)
 
-win.connect(Event.DESTROY, lambda w: exit(0))
+win.connect(Events.DESTROY, lambda w: exit(0))
 
 app.run(win)
